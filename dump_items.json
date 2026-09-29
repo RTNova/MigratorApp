@@ -1,0 +1,386 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/5Fpc58Bi1XOXRhdwmMoMke/items?offset=0&limit=100&additional_types=track",
+  "items": [
+    {
+      "added_at": "2026-08-11T09:56:30Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spidernova"
+        },
+        "href": "https://api.spotify.com/v1/users/spidernova",
+        "id": "spidernova",
+        "type": "user",
+        "uri": "spotify:user:spidernova"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/7uUv4tpHPGzcw8NDv5H7Yx",
+          "id": "7uUv4tpHPGzcw8NDv5H7Yx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734f95d0bd95355688e8ce57d8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024f95d0bd95355688e8ce57d8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514f95d0bd95355688e8ce57d8",
+              "width": 64
+            }
+          ],
+          "name": "BROWN BOY",
+          "release_date": "2023-10-26",
+          "release_date_precision": "day",
+          "uri": "spotify:album:7uUv4tpHPGzcw8NDv5H7Yx",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+              "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+              "name": "ABHIR",
+              "type": "artist",
+              "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7uUv4tpHPGzcw8NDv5H7Yx"
+          },
+          "total_tracks": 17
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+            "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+            "name": "ABHIR",
+            "type": "artist",
+            "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 12,
+        "duration_ms": 156953,
+        "external_ids": {
+          "isrc": "UYB282381033"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5rRJBIHC2h2Bavcg4dWSwX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5rRJBIHC2h2Bavcg4dWSwX",
+        "id": "5rRJBIHC2h2Bavcg4dWSwX",
+        "name": "BROWN BOY BOUNCE",
+        "uri": "spotify:track:5rRJBIHC2h2Bavcg4dWSwX",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-11T09:55:19Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spidernova"
+        },
+        "href": "https://api.spotify.com/v1/users/spidernova",
+        "id": "spidernova",
+        "type": "user",
+        "uri": "spotify:user:spidernova"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/7uUv4tpHPGzcw8NDv5H7Yx",
+          "id": "7uUv4tpHPGzcw8NDv5H7Yx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734f95d0bd95355688e8ce57d8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024f95d0bd95355688e8ce57d8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514f95d0bd95355688e8ce57d8",
+              "width": 64
+            }
+          ],
+          "name": "BROWN BOY",
+          "release_date": "2023-10-26",
+          "release_date_precision": "day",
+          "uri": "spotify:album:7uUv4tpHPGzcw8NDv5H7Yx",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+              "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+              "name": "ABHIR",
+              "type": "artist",
+              "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7uUv4tpHPGzcw8NDv5H7Yx"
+          },
+          "total_tracks": 17
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+            "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+            "name": "ABHIR",
+            "type": "artist",
+            "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 17,
+        "duration_ms": 186122,
+        "external_ids": {
+          "isrc": "UYB282381048"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YMK3rLfIvfTlHtiqfTXeU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YMK3rLfIvfTlHtiqfTXeU",
+        "id": "5YMK3rLfIvfTlHtiqfTXeU",
+        "name": "ALYX",
+        "uri": "spotify:track:5YMK3rLfIvfTlHtiqfTXeU",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-11T09:54:30Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spidernova"
+        },
+        "href": "https://api.spotify.com/v1/users/spidernova",
+        "id": "spidernova",
+        "type": "user",
+        "uri": "spotify:user:spidernova"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/6xdHzpNdvT49hmq7nGPKlh",
+          "id": "6xdHzpNdvT49hmq7nGPKlh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737823db0b8ef6321d5099ff2c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027823db0b8ef6321d5099ff2c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517823db0b8ef6321d5099ff2c",
+              "width": 64
+            }
+          ],
+          "name": "Breathe",
+          "release_date": "2021-11-05",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6xdHzpNdvT49hmq7nGPKlh",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii"
+              },
+              "href": "https://api.spotify.com/v1/artists/55WGXEp1qUerac8ChlL5Ii",
+              "id": "55WGXEp1qUerac8ChlL5Ii",
+              "name": "Circumference",
+              "type": "artist",
+              "uri": "spotify:artist:55WGXEp1qUerac8ChlL5Ii"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6xdHzpNdvT49hmq7nGPKlh"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii"
+            },
+            "href": "https://api.spotify.com/v1/artists/55WGXEp1qUerac8ChlL5Ii",
+            "id": "55WGXEp1qUerac8ChlL5Ii",
+            "name": "Circumference",
+            "type": "artist",
+            "uri": "spotify:artist:55WGXEp1qUerac8ChlL5Ii"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 315348,
+        "external_ids": {
+          "isrc": "GB6TC2194001"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7embILNqpN9WUIfaecsNB5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7embILNqpN9WUIfaecsNB5",
+        "id": "7embILNqpN9WUIfaecsNB5",
+        "name": "Breathe",
+        "uri": "spotify:track:7embILNqpN9WUIfaecsNB5",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-11T09:56:32Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spidernova"
+        },
+        "href": "https://api.spotify.com/v1/users/spidernova",
+        "id": "spidernova",
+        "type": "user",
+        "uri": "spotify:user:spidernova"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/7uUv4tpHPGzcw8NDv5H7Yx",
+          "id": "7uUv4tpHPGzcw8NDv5H7Yx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734f95d0bd95355688e8ce57d8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024f95d0bd95355688e8ce57d8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514f95d0bd95355688e8ce57d8",
+              "width": 64
+            }
+          ],
+          "name": "BROWN BOY",
+          "release_date": "2023-10-26",
+          "release_date_precision": "day",
+          "uri": "spotify:album:7uUv4tpHPGzcw8NDv5H7Yx",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+              "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+              "name": "ABHIR",
+              "type": "artist",
+              "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7uUv4tpHPGzcw8NDv5H7Yx"
+          },
+          "total_tracks": 17
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2D8UzkIVdg1bj0Iqz6gjk0",
+            "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+            "name": "ABHIR",
+            "type": "artist",
+            "uri": "spotify:artist:2D8UzkIVdg1bj0Iqz6gjk0"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 114509,
+        "external_ids": {
+          "isrc": "UYB282381021"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aJaApaCPmSOTrHupUoqnl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aJaApaCPmSOTrHupUoqnl",
+        "id": "5aJaApaCPmSOTrHupUoqnl",
+        "name": "GO GETTER",
+        "uri": "spotify:track:5aJaApaCPmSOTrHupUoqnl",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 100,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 4
+}
