@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+
+# Credenciales y variables de entorno
+.env
+client_secret.json
+
+# Caché de Spotify y Python
+.cache
+__pycache__/
+*.pyc
