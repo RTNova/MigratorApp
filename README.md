@@ -66,14 +66,6 @@ python migrator.py
 - **La cuota de YouTube es pequeña.** Cada búsqueda gasta 100 unidades y cada canción añadida 50, y el límite diario por defecto es de 10.000. Salen unas 60 o 65 canciones al día. Si tu playlist es larga, el script se para cuando se acaba la cuota, y al ejecutarlo otra vez con el mismo enlace sigue donde se quedó. El progreso se guarda en `migrator_progress.json`.
 - **El primer resultado no siempre es el bueno.** El script se queda con el primer vídeo que devuelve la búsqueda, así que a veces puede ser un directo o una versión distinta. Conviene echarle un ojo a la playlist al terminar.
 - **Archivos de diagnóstico.** Por defecto se generan `dump_playlist.json` y `dump_items.json` con la respuesta cruda de Spotify. Sirven para ver qué está pasando si algo falla. Cuando ya funcione todo, puedes poner `DEBUG_DUMP = False` en el script.
+- **Canciones sin aparecer.** Es posible que no se encuentre una canción, ya sea porque se borró de Spotify, es un episodio, o no está disponible por X razones, está pendiente por implementarse que el usuario reciba un listado con las canciones que no se pudieron leer inicialmente.
 
-## Seguridad
-
-No subas nunca estos archivos a GitHub, porque llevan tus credenciales:
-
-- `.env`
-- `.cache`
-- `client_secret.json`
-- `migrator_progress.json`
-
-Ponlos en el `.gitignore`. Si alguna vez se te cuela un secret en un repositorio o lo pegas en algún sitio, regéneralo desde el panel de Spotify o de Google Cloud.
+Este proyecto está en desarrollo, presenta muchos errores que iré corrigiendo.
